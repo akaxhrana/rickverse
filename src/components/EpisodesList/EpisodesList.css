@@ -1,0 +1,12 @@
+.episodes-list{
+    /* padding: 10px; */
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    position: relative;
+    position: relative;
+}
+.episodes-list::-webkit-scrollbar {
+    display: none;
+}
