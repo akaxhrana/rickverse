@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rickverse/static/css/main.9ac3b896.css",
+    "main.js": "/rickverse/static/js/main.43c04b4a.js",
+    "static/js/787.4c08c751.chunk.js": "/rickverse/static/js/787.4c08c751.chunk.js",
+    "index.html": "/rickverse/index.html",
+    "main.9ac3b896.css.map": "/rickverse/static/css/main.9ac3b896.css.map",
+    "main.43c04b4a.js.map": "/rickverse/static/js/main.43c04b4a.js.map",
+    "787.4c08c751.chunk.js.map": "/rickverse/static/js/787.4c08c751.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac3b896.css",
+    "static/js/main.43c04b4a.js"
+  ]
+}
